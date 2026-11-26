@@ -38,8 +38,8 @@
 
 ### 計測用リンク
 - Play（UTM）
-  - Instagram：https://play.google.com/store/apps/details?id=com.manabiteam.app&referrer=utm_source%3Dinstagram%26utm_medium%3Dsocial%26utm_campaign%3Dmanabi
-  - X：https://play.google.com/store/apps/details?id=com.manabiteam.app&referrer=utm_source%3Dx%26utm_medium%3Dsocial%26utm_campaign%3Dmanabi
-  - LP：https://play.google.com/store/apps/details?id=com.manabiteam.app&referrer=utm_source%3Dlp%26utm_medium%3Dweb%26utm_campaign%3Dmanabi
+  - Instagram：https://play.google.com/store/apps/details?id=com.manabiteam.app&referrer=utm_source%3Dinstagram%26utm_medium%3Dsocial%26utm_campaign%3Dmanabi_202611
+  - X：https://play.google.com/store/apps/details?id=com.manabiteam.app&referrer=utm_source%3Dx%26utm_medium%3Dsocial%26utm_campaign%3Dmanabi_202611
+  - LP：https://play.google.com/store/apps/details?id=com.manabiteam.app&referrer=utm_source%3Dlp%26utm_medium%3Dweb%26utm_campaign%3Dmanabi_202611
 - App Store（キャンペーンリンク）：https://apps.apple.com/app/apple-store/id6825277216?pt=<プロバイダトークン>&ct=instagram|x|lp&mt=8
   - プロバイダトークンは ASC の「キャンペーンリンクを作成」画面で確認が必要 → 要確認（ASC ログイン後）
