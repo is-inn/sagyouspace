@@ -43,3 +43,17 @@
   - LP：https://play.google.com/store/apps/details?id=com.manabiteam.app&referrer=utm_source%3Dlp%26utm_medium%3Dweb%26utm_campaign%3Dmanabi_202611
 - App Store（キャンペーンリンク）：https://apps.apple.com/app/apple-store/id6825277216?pt=<プロバイダトークン>&ct=instagram|x|lp&mt=8
   - プロバイダトークンは ASC の「キャンペーンリンクを作成」画面で確認が必要 → 要確認（ASC ログイン後）
+
+## SNS の数字（週次レポート用・マーケ ETC-002）
+
+> 1行＝1投稿。数字が見られないものは「未取得」。投稿前のものは状態に「未投稿」と書く。個人情報・パスワードは書かない。
+> UTM：記事告知は utm_campaign=記事名_article、アプリ紹介は manabi_202611。
+
+| 日付 | アプリ | 媒体 | 投稿（候補番号） | いいね・保存 | リンククリック | UTM（utm_campaign） | 状態 |
+|---|---|---|---|---|---|---|---|
+| 11/26 | まなび | Instagram | アプリ紹介 A＋2 | 未取得 | 未取得 | manabi_202611 | 未投稿（manabi.team 連携待ち） |
+| 11/26 | まなび | X | アプリ紹介 1 | 未取得 | 未取得 | （LP 直リンク） | 未投稿（本人がコピペで投稿） |
+
+### 出している候補（本人の選択待ち・#sns投稿用）
+- まなび：アプリ紹介1件（選択済み）／1週間分 5件／冬休み記事の告知（utm_campaign=winter_article）
+- rooter：アプリ紹介1件／辛口記事の告知（utm_campaign=harsh_article）
