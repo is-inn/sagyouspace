@@ -57,3 +57,18 @@
 ### 出している候補（本人の選択待ち・#sns投稿用）
 - まなび：アプリ紹介1件（選択済み）／1週間分 5件／冬休み記事の告知（utm_campaign=winter_article）
 - rooter：アプリ紹介1件／辛口記事の告知（utm_campaign=harsh_article）
+
+## 11/26 20:10 ASC 確認（司令塔）
+
+| 項目 | 値 |
+|---|---|
+| まなび iOS 初回DL（10/26〜11/24・30日） | 4 |
+| 再DL | 1 |
+| 表示／閲覧／CVR（30日） | 146／28／5.75% |
+| 12/31 目標 累計15 までの残り | 約6（iOS 4〜5＋Android 5＝9〜10 として。Android は 11/20 の値・要確認） |
+
+### App Store キャンペーンリンク（まなび）
+- Instagram：https://apps.apple.com/app/apple-store/id6825277216?pt=129406874&ct=instagram&mt=8
+- X：https://apps.apple.com/app/apple-store/id6825277216?pt=129406874&ct=x&mt=8
+- LP：https://apps.apple.com/app/apple-store/id6825277216?pt=129406874&ct=lp&mt=8
+- 数え方：ASC アナリティクス → 獲得 → キャンペーン（5人以上インストールすると表示される）
